@@ -1,19 +1,11 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### The Artist
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Above all I'm a painter. Despite a tendency to work with other mediums and tools, painting is where my creativity and skill is allowed to flow to it's fullest. Oil is my primary medium, though I do struggle through acrylic paintings from time to time just to prove I can. I also like ink and coffee and combine them into pieces that I'm not sure whether to call drawings or paintings. Inspiration is everywhere, from incredible experiences in nature to the way the light hits a concrete wall. I love light and color and grit and the mundane.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+I hope to create work that resonates with people in some way but I'm not really sure how to do that yet. All I know is that there's beauty in this world and I hope to capture as much of it as I can.
